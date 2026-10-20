@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jooky7380-commits.github.io/sitemap.xml
