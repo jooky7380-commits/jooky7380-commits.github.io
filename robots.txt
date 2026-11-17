@@ -1,4 +1,26 @@
 User-agent: *
 Allow: /
 
+# AI 검색·답변 서비스(ChatGPT·Perplexity·Gemini·Bing 등) 수집 허용
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
 Sitemap: https://jooky7380-commits.github.io/sitemap.xml
